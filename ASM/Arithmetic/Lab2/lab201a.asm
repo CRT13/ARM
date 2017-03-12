@@ -5,9 +5,9 @@
   ENTRY
  ;Load
     MOV R0,#0
-    LDI R1,=X;
-    LDI R2,=Y;
-    LDI R3,=Z;
+    LDR R1,=X
+    LDR R2,=Y
+    LDR R3,=Z
  ;Logic
     MUL R1,R1,R1        ;R1 <= X^2
     MUL R2,R2,R2        ;R2 <= Y^2
@@ -18,7 +18,7 @@
  ;Store
     ADD R0,R1,R2
     ADD R0,R0,R3
-    STR R0,Sum32        ;Stores result at address pointed by 'Sum32'
+    STR R0,Sum32        ;Stores result at address allocated to 'Sum32'
  ;Variable Definitions
  X DCB 1
  Y DCB 2
