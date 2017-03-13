@@ -1,4 +1,4 @@
-;Evaluate aX^2 + bY^2 + cZ^2 where a,b,c = 2n,2n-1, or 2n+1
+;Evaluate aX^2 + bY^2 + cZ^2 where a,b,c = 2^n,2^n-1, or 2^n+1
 ;           2X^2 + 5Y^2 + 7Z^2
 
   AREA lab201a  CODE  READONLY
