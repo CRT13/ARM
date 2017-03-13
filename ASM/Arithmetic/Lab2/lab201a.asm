@@ -12,7 +12,7 @@
     MUL R1,R1,R1        ;R1 <= X^2
     MUL R2,R2,R2        ;R2 <= Y^2
     MUL R3,R3,R3        ;R3 <= Z^2
-    ADD R1,R0,R1,LSL#1  ;R1 <= X^2
+    ADD R1,R0,R1,LSL#1  ;R1 <= 2X^2
     ADD R2,R2,R2,LSL#2  ;R2 <= 5Y^2
     RSB R3,R3,R3,LSL#3  ;R3 <= 7X^2
  ;Store
