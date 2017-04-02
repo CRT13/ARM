@@ -1,3 +1,3 @@
 # ARM
-Basic ARM (ASM/C) Programs
+Simple ARM (ASM/C) Programs
 
