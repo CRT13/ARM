@@ -9,6 +9,9 @@ Refer:
  Links:
   STM32-Tutorials: https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA
   STM32-Examples: http://web.eece.maine.edu/~zhu/book/lab.php
+ Tutorials:
+  How to use ST-LINK to program STM32: http://extremeelectronics.co.in/news/how-to-use-st-link-to-program-stm32/
+  
 ### Projects ###
 Refer:
  PDFs:
@@ -29,5 +32,6 @@ Refer:
   STM32 PWM (1) Example: http://www.keil.com/download/docs/354.asp
   STM32 PWM (2) Example: http://www.keil.com/download/docs/355.asp
   STM32 Verifying DTMF Algorithms: http://www.keil.com/download/docs/370.asp
+  STM32 Digital Photoframe: http://extremeelectronics.co.in/32bit-arm-projects/stm32-project-digital-photoframe/
 
 
