@@ -9,9 +9,8 @@ Refer:
  Links:
   STM32-Tutorials: https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA
   STM32-Examples: http://web.eece.maine.edu/~zhu/book/lab.php
- Tutorials:
-  How to use ST-LINK to program STM32: http://extremeelectronics.co.in/news/how-to-use-st-link-to-program-stm32/
-  
+  STM32-Interfacing: http://www.eeherald.com/section/design-guide/esmod3b.html
+ 
 ### Projects ###
 Refer:
  PDFs:
