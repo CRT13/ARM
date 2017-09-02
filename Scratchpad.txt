@@ -1,0 +1,20 @@
+Q. What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?
+A. Try building Chrome extensions/Firefox plugins.
+   I built one extension for Google chrome by putting in a total of 12 hours over 5 days. It's very simple and you will find many tutorials on the internet for the same.
+
+Data Engineering
+  Text-Processing
+  DBMS - Relational, Object-oriented, Hierarchial
+  
+  ===================================================
+  DataScience Tutorials (R): https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX
+  DataAnalysis Tutorials (Python): https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-
+  Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning: https://www.youtube.com/watch?v=rIofV14c0tc
+  ===================================================
+  BOOKS:
+   Python Data Science Essentials
+   Python Data Science Cookbook
+   Hands-On Data Science and Python Machine Learning
+
+  
+  
