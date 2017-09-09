@@ -1,3 +1,0 @@
-AN2557 = STM32F10x in-application programming using the USART
-AN2790 = TFT LCD interfacing with the high-density STM32F10xxx FSMC
-UM0986 = Developing your STM32VLDISCOVERY application using the MDK-ARM software
